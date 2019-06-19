@@ -1,7 +1,4 @@
 # 1 Slack Sharing Policy 
-Proposal Accepted during Show & Tell 17th of April 2019
-
-Original proposal thread: You can find here
 
 ## 1.1 Purpose 
 
