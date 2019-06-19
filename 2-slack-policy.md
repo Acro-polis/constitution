@@ -21,10 +21,10 @@ Any member within Polis agrees to use the following procedures to communicate vi
 ### 1.3.1 Use Labels to prioritize 
 
 When sharing an item, we can use labels to indicate the relevance of the item. For this, we follow the MoSCoW scheme. MoSCoW has been used extensively in agile development and separates topics in Must haves, Should haves, Could haves and Won’t haves. We want to apply the same structure to our shared documents by adding emoticons to shared items:
- * :mushroom: Must haves (: mushroom: in slack)
- * :sweet_potato: Should haves (: sweet_potato: in slack)
- * :cucumber: Could haves (: cucumber: in Slack)
- * 🥃Won’t haves (:whiskey: in Slack) 	
+ * :mushroom: Must haves (`:mushroom:` in slack)
+ * :sweet_potato: Should haves (`:sweet_potato:` in slack)
+ * :cucumber: Could haves (`:cucumber:` in Slack)
+ * 🥃 Won’t haves (`:whiskey:` in Slack) 	
 
 By using labels, you will remove the burden of figuring out the relevance of shared items for team members.
 **NOTE:** Make sure you add the emoticon in the text; otherwise i
@@ -41,5 +41,5 @@ By using labels, you will remove the burden of figuring out the relevance of sha
 
 ### 1.3.3 Interacting with and reacting on posts in Slack
 To keep interactions in Slack organized, structured and efficient we would like to propose these guidelines for interacting with shared items; 
-1) We should aim to let our colleagues know that the shared item reached us. The most simple way to do this is by [reacting with an emoticon](https://get.slack.help/hc/en-us/articles/206870317-Emoji-reactions), a simple : thumbsup: 👍 emoticon is perfectly sufficient. By doing so we can create a better understanding of who read what, which enables members to go into deeper conversation in meetings.
+1) We should aim to let our colleagues know that the shared item reached us. The most simple way to do this is by [reacting with an emoticon](https://get.slack.help/hc/en-us/articles/206870317-Emoji-reactions), a simple `:thumbsup:` 👍 emoticon is perfectly sufficient. By doing so we can create a better understanding of who read what, which enables members to go into deeper conversation in meetings.
 2) To keep our discussion on a topic in one place, we should use [threads](https://get.slack.help/hc/en-us/articles/115000769927-Message-and-file-threads).
