@@ -22,9 +22,9 @@ Interact with posts in Slack as described in the procedure
 ### 1.3.1 Use Labels to prioritize 
 
 When sharing an item, we can use labels to indicate the relevance of the item. For this, we follow the MoSCoW scheme. MoSCoW has been used extensively in agile development and separates topics in Must haves, Should haves, Could haves and Won’t haves. We want to apply the same structure to our shared documents by adding emoticons to shared items:
- * :mushroom: Must haves (:mushroom: in slack)
- * :sweet_potato: Should haves (:sweet_potato: in slack)
- * :cucumber: Could haves (:cucumber: in Slack)
+ * :mushroom: Must haves (: mushroom: in slack)
+ * :sweet_potato: Should haves (: sweet_potato: in slack)
+ * :cucumber: Could haves (: cucumber: in Slack)
  * 🥃Won’t haves (:whiskey: in Slack) 	
 
 By using labels, you will remove the burden of figuring out the relevance of shared items for team members.
