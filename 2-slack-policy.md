@@ -2,7 +2,7 @@
 
 ## Purpose 
 
-These slack guidelines aim to stimulate the impact of sharing information within our organization. We considered this to be an important topic, as our slack behaviour may save or cost team members a lot of time. We aim to provide a set of simple guidelines for sharing on slack, requiring minimal extra work and learning curve.
+These guidelines aim to provide a set of simple instructions for sharing on slack, requiring minimal extra work and learning curve. This is an important topic, as our slack behaviour may save or cost team members a lot of time. 
 
 **What we aim to achieve**
 
