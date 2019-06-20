@@ -2,7 +2,7 @@
 
 ## 1.1 Purpose 
 
-To stimulate the impact of sharing information within Polis; Koen, Ruben and Bram like to propose some guidelines for sharing items in Slack. We considered this to be an important topic, as our slack behaviour may save or cost team members a lot of time. We aim to provide a set of simple guidelines for sharing on slack, requiring minimal extra work and learning curve.
+These slack guidelines aim to stimulate the impact of sharing information within our organization. We considered this to be an important topic, as our slack behaviour may save or cost team members a lot of time. We aim to provide a set of simple guidelines for sharing on slack, requiring minimal extra work and learning curve.
 
 **What we aim to achieve**
 
