@@ -1,6 +1,6 @@
 # Proposals and Voting Policy
 
-Members can create a proposal and invite other members to a vote, in order to either:
+All members can create a proposal and invite other members to a vote, in order to either:
 + Accept a new policy
 + Update an existing policy
 + Enact a vote as described in a policy
@@ -11,10 +11,7 @@ Any member who wants to create a proposal will make use of the different methods
 2. Voting on a proposal
 3. Adopting a proposal 
 
-
-
-
-Within each of these phases there are two different methods described. A synchronous method and an asynchronous method. 
+Within each of these phases there are describred two methods, one for asynchronous shared proposals and one for synchrnous shared proposals. 
 
 ## Creating and Sharing proposals
 ### Creating and sharing a Asynchronous proposal 
