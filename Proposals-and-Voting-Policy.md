@@ -62,18 +62,7 @@ The intention for this reminder is twofold:
     others asked, and to revise their vote if necessary.
 
 ### Creating a proposal synchronously  
-When creating and sharing a proposal synchronously, the proposer should provide answers to any of the questions that are relevant for that 
-proposal:   
-
-* What are you proposing?
-* Why do you personally want to see this proposal accepted?
-* What risks and benefits do you anticipate? 
-* Who is affected by this proposal?
-* What are the costs of the proposal?
-* What are the alternatives? Invite the other members to answer this as well
-* What is the deadline for responding to the proposal? (e.g. one week) 
-* What kind of voting is required to accept the proposal? 
-* What are the different options that you are presenting? (Use numbers to identify them so that people can cast their vote accordingly)
+When creating and sharing a proposal synchronously, the proposer should provide answers to any of the relevant questiosn as listed in the template earlier. 
 
 ## Voting on a proposal 
 ### Voting on a asynchronous proposal   
