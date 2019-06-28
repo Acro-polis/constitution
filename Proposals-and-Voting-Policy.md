@@ -28,7 +28,7 @@ _NB: The parts mentioned between paranthesis "(...)" need to be filled by the pr
  
 > :mushroom: **PROPOSAL + (ADD TITLE OF PROPOSAL)**  
 @Channel: Please find the details of the proposal here:  
-  (INSERT LINK TO PROPOSAL)  
+  (INSERT GIHUBLINK TO PROPOSAL/PULLREQUEST/COMMIT)  
   (INSERT ANSWER TO RELEVANT QUESTIONS)  
  >   
  > :thumbsup : = I agree with the proposal as it is  
