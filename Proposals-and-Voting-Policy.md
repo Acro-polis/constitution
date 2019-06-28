@@ -1,9 +1,18 @@
 # Proposals and Voting Policy
 
+Members can create a proposal and invite other members to a vote, in order to either:
++ Accept a new policy
++ Update an existing policy
++ Enact a vote as described in a policy
++ Out-of-band decisions (e.g. where are we going to have the next team building event)
+ 
 Any member who wants to create a proposal will make use of the different methods as they are described in this policy. These methods are organized to match each specific phase of the proposal process. These phases are: 
 1. Creating and sharing a proposal 
 2. Voting on a proposal
 3. Adopting a proposal 
+
+
+
 
 Within each of these phases there are two different methods described. A synchronous method and an asynchronous method. 
 
