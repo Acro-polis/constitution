@@ -1,5 +1,10 @@
-
 # Proposals and Voting Policy
+## Details 
+**Voted and approved, once necessary changes were made: see [this thread](https://dekai.slack.com/archives/CJMBGF4QY/p1560933342033400) to find details**  
+
+Additional information and guidelines can be found in the wiki [https://wiki.polis.global/proposals-voting](https://wiki.polis.global/proposals-voting)
+
+## Proposals and Voting Policy
 All members can create a proposal and invite other members to a vote, in order to either:
 + Accept a new policy
 + Update an existing policy
