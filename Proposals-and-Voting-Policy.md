@@ -1,42 +1,37 @@
-# Proposals and Voting Policy
 
+# Proposals and Voting Policy
 All members can create a proposal and invite other members to a vote, in order to either:
 + Accept a new policy
 + Update an existing policy
 + Enact a vote as described in a policy
 + Out-of-band decisions (e.g. where are we going to have the next team building event)
  
-Any member who wants to create a proposal will make use of the different methods as they are described in this policy. These methods are organized to match each specific phase of the proposal process. These phases are: 
-1. Creating and sharing a proposal 
-2. Voting on a proposal
-3. Adopting a proposal 
-
-Within each of these phases there are describred two methods, one for asynchronous shared proposals and one for synchrnous shared proposals. 
+Any member who wants to create a proposal will make use of the different methods as they are described in this policy. These methods are organized to match each specific phase of the proposal process. These phases are: "Creating and sharing a proposal", "Voting on a proposal" and "Adopting a proposal".
+Within each of these phases there are described two methods, one for asynchronous shared proposals and one for synchronous shared proposals. 
 
 ## Creating and Sharing proposals
 ### Creating and sharing a Asynchronous proposal 
 Members should follow these steps:
 1. Post your proposal in the appropriate channel in Slack.   
-   * Use the [#_vote channel](https://dekai.slack.com/messages/CJMBGF4QY/convo/GFSPHBCGM-1559145174.028400/) for proposals that concern the 
+   * Use the [#vote channel](https://dekai.slack.com/messages/CJMBGF4QY/convo/GFSPHBCGM-1559145174.028400/) for proposals that concern the 
 entire organization.
    * Use the team channel for proposals for a specific team.  
 
 2. Use the following template for sharing the proposal in Slack.   
-_NB: The parts mentioned between paranthesis "(...)" need to be filled by the proposer._  
-    _Please note that the codes of the emoticons have an extra space in them because GITHUB doens't have the support the emoticons properly._ 
-    _When you copy the list to your slack message, simply remove the space between the last letter and the ":" to turn in it into an emoticon._
- 
-> :mushroom: **PROPOSAL + (ADD TITLE OF PROPOSAL)**  
+_NB: The parts mentioned between parenthesis "(...)" need to be filled by the proposer._  
+    
+> `:mushroom: *PROPOSAL + (ADD TITLE OF PROPOSAL)*`  
 @Channel: Please find the details of the proposal here:  
-  (INSERT GIHUBLINK TO PROPOSAL/PULLREQUEST/COMMIT)  
+  (INSERT GITHUBLINK TO PROPOSAL/PULLREQUEST/COMMIT)  
   (INSERT ANSWER TO RELEVANT QUESTIONS)  
  >   
- > :thumbsup : = I agree with the proposal as it is  
-  :thumbsdown : = I don't agree with the proposal  
-  :palms_up_together : = I like to add something to the proposal   
-  :wave : = I'm happy for the group to decide  
-  :building_construction : = I have a different proposal to solve the same problem  
-  :no_entry_sign : = I want to block this proposal because I think it would harm our organization. (This is a Veto)  
+ > `:thumbsup:` = I agree with the proposal as it is  
+  `:thumbsdown:` = I don't agree with the proposal  
+  `:palms_up_together:` = I like to add something to the proposal   
+  `:One:`, `:two:`, `:three:` = I choose for option number 1/2/3   
+  `:wave:` = I'm happy for the group to decide  
+  `:building_construction:` = I have a different proposal to solve the same problem  
+  `:no_entry_sign:` = I want to block this proposal because I think it would harm our organization. (This is a Veto)  
   
   > Use this list of questions to answer those that are relevant for the proposal:  
 >  * What are you proposing?
@@ -47,7 +42,7 @@ _NB: The parts mentioned between paranthesis "(...)" need to be filled by the pr
 >  * What are the alternatives? Invite the other members to answer this as well
 >  * What is the deadline for responding to the proposal? (e.g. one week) 
 >  * What kind of voting is required to accept the proposal? 
->  * What are the different options that you are presenting? (Use numbers to identify them so that people can cast their vote accordingly) 
+>  * What are the different options that you are presenting? (Use numbers to identify them so that people can cast their vote accordingly)
 
 
 3. **The proposer must remind the members who didn’t cast their vote two days before the deadline. By mentioning them in the thread of the 
@@ -59,7 +54,7 @@ The intention for this reminder is twofold:
     others asked, and to revise their vote if necessary.
 
 ### Creating a proposal synchronously  
-When creating and sharing a proposal synchronously, the proposer should provide answers to any of the relevant questiosn as listed in the template earlier. 
+When creating and sharing a proposal synchronously, the proposer should provide answers to any of the relevant questions as listed in the template earlier. 
 
 ## Voting on a proposal 
 ### Voting on a asynchronous proposal   
@@ -73,13 +68,13 @@ becomes quite easy to use after a few tries. Add these emoticons by using the �
 
 | Code in Slack     | Emoticon           | Description  |
 | ------------- |:-------------:| -----:|
-| :ThumbsUp :     | :thumbsup: | A vote for the proposal as it is proposed. |
-| :ThumbsDown :     | :thumbsdown:      | A vote against the proposal as it is. A practice that is **constructive** is to voice your needs/reasoning. Use the Thread to answer the following question: What is the reason for your vote? What do you need to approve of the proposal? These questions can also be asked by the member creating the proposal.|
-| :One :, :two :, :three :, etc | :one:, :two:, :three:, etc.      | If there are several **numbered options** to vote upon within the proposal, cast your vote for that particular option.|
-| :wave :    | :wave:      | Abstain from voting; You’re happy to let the group decide without you.|
-| :palms_up_together :| :raised_hands:     |  Use this to **add something** to the proposal, or **voice a concern**. Use the emoticon and describe your concern in the thread:  For example: *I agree with the proposal as it is and I think it’s important that we start doing this. However, I do worry that if a critical piece of the proposal gets neglected it could have a negative outcome on our team. Therefore I would like to add that we schedule an evaluation halfway, so that we make sure we don’t forget that critical piece.* |
-| :building_construction :  | 🏗️      |   Use this if you do not agree with the original proposal and you have a **counterproposal**. Describe this counterproposal in the comments using the regular methods of proposing. |
-| :no_entry_sign :| :no_entry_sign: |  Blocking a proposal is the same as casting a **veto**. Blocks aren’t something to be taken lightly. Blocks should only be used when the blocker thinks there is a significant risk for the organization.When you want to block a proposal, the following principles apply: *Place the good of the whole organization before your individual preferences & Articulate the motivation for your block in the thread of the original proposal.* |
+| `:ThumbsUp:`     | :thumbsup: | A vote for the proposal as it is proposed. |
+| `:ThumbsDown:`     | :thumbsdown:      | A vote against the proposal as it is. A practice that is **constructive** is to voice your needs/reasoning. Use the Thread to answer the following question: What is the reason for your vote? What do you need to approve of the proposal? These questions can also be asked by the member creating the proposal.|
+| `:One:`, `:two:`, `:three:`, etc | :one:, :two:, :three:, etc.      | If there are several **numbered options** to vote upon within the proposal, cast your vote for that particular option.|
+| `:wave:`    | :wave:      | Abstain from voting; You’re happy to let the group decide without you.|
+| `:palms_up_together:`| :raised_hands:     |  Use this to **add something** to the proposal, or **voice a concern**. Use the emoticon and describe your concern in the thread:  For example: *I agree with the proposal as it is and I think it’s important that we start doing this. However, I do worry that if a critical piece of the proposal gets neglected it could have a negative outcome on our team. Therefore I would like to add that we schedule an evaluation halfway, so that we make sure we don’t forget that critical piece.* |
+| `:building_construction:`  | 🏗️      |   Use this if you do not agree with the original proposal and you have a **counter-proposal**. Describe this counter-proposal in the comments using the regular methods of proposing. |
+| `:no_entry_sign:`| :no_entry_sign: |  Blocking a proposal is the same as casting a **veto**. Blocks aren’t something to be taken lightly. Blocks should only be used when the blocker thinks there is a significant risk for the organization.When you want to block a proposal, the following principles apply: *Place the good of the whole organization before your individual preferences & Articulate the motivation for your block in the thread of the original proposal.* |
 
 ### Voting on a synchronous proposal  
 Now that the proposal is being put to a vote in a synchronous manner, the following method can be used: 
@@ -91,13 +86,12 @@ Now that the proposal is being put to a vote in a synchronous manner, the follow
 | ------------- |:-------------:|
 | Thumbs up     | Approve the proposal as is |
 | Thumbs down      | Vote against the proposal      | 
-| Make a bowl of your hand | Propose to add something to the orginal proposal    |
+| Make a bowl of your hand | Propose to add something to the original proposal    |
 | Hold your hand flat and horizontal      | Abstain from voting      |
 | Make a fist     | I have a counter proposal       |
 | Make a cross with your hands    | **Block** the proposal.       |
 
-4. When members want to add things to the proposal, they now get the chance to share it. The facilitator of the meeting sees to
-it that everybody gets their chance to share. 
+4. When members want to add things to the proposal, they now get the chance to share it. The facilitator of the meeting sees to it that everybody gets their chance to share. 
 5. The creator of the original proposal can decide if they would like to add the thing that was offered by one of the other members. 
    * When they accept -> This new proposal is immediately put to a vote again. 
    * If they do not accept the addition -> Then the original proposal + addition becomes a counter-proposal. There will be a new round 
