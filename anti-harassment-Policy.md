@@ -8,8 +8,6 @@ We also prohibit wilful discrimination based on [age, gender, experience, nation
 ## Inform Angela Wante
 Whenever you feel harassed or feel that colleagues are being harassed, however minor it might seem, we request that you contact Angela Wante. Anything you share with her will be completely confidential. Angela will advise you and when necessary will take further steps to make sure the harassment stops immediately.
 
-
-## Anti-Harassment Info
-Please have a look at the Anti-Harassment Info document to see tips and guidelines to help you handle situations in which you are harassed. In this file you can also find more information about how your behavior can be interpreted as harassment by someone else. 
-
+## Anti-harassment wiki
+Find more info in the Anti-harressment wiki: https://wiki.polis.global/anti-harassment
 
