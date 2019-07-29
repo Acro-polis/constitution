@@ -1,7 +1,8 @@
 # Anti-Harassment Policy
 ## Details
 Find more info in the Anti-harressment wiki: https://wiki.polis.global/en/Anti-harassment%20Guidelines
- 
+
+## Policy
 We strive to create and maintain a work environment in which people are treated with dignity, decency and respect. Our work environment should be characterized by mutual trust, diversity, safety and the absence of intimidation, oppression and exploitation.
  
 We will not tolerate intimidating, humiliating or sabotaging others in our workplace. 
