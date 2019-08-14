@@ -1,11 +1,11 @@
 # Sick-Leave Policy
+
 ## Details
 Find more info on how to administrate your Sick hours in this wiki: https://wiki.polis.global/en/Administration%20Guidelines
 The guidelines for how to Call in Sick you can find int his wiki: [https://wiki.polis.global//Call-in-Sick](https://wiki.polis.global//Call-in-Sick)
 
 ## The Policy 
-This policy is to make sure every worker owner and active participant knows when and how to call-in-sick and the consequences for payments.
-
+This policy describes how the compensation for sick-leave is organzied within Polis. 
 ## Compensation 
 At this moment in our organization we do not have the resources to do the research and acquire the knowledge that is needed for a compensation system that will be more inclusive and will take account laws in specific countries.  Therefore we have created this temporary Policy so that we can at least bridge that period and provide some clarity already. 
 1. Dutch laws requires us to pay sick leave for *employees*.  
