@@ -1,13 +1,16 @@
+
+
 # Active Participant & Worker-Owner Policy 
 ## Details
 
 
 
 ## The Policy 
+This policy creates clarity on the difference between Active Participants & Worker-Owners, and how one could become a Worker-Owner. 
+## Influence on the governance of Polis 
+In the image below the different rings of influence on the governance of Polis are illustrated. The level of influence on the governance of our organization increases when you come closer to the core. This means that worker-owners have the most influence on Polis' governance 
+**![](https://lh5.googleusercontent.com/yt5f8ZN-K7T5zn9HeqlXgMce65soAjlhXxzA0MLCJSTvekJBrUarIMF5a3BLCCoRxxhCrS1ds9skxlJbGaMPFb9EZ18gt9Vsvnm5gG7eDaSF02MQLxhoKSt5FH0zGQl8ZzLDMNpZKHE)**
 
-## Structure of the organization 
-In the image below the different rings of influence on the governance of Polis are illustrated. The level of influence on the governance of our organization increases when you come closer to the core. This means that worker-owners have the most influence on the governance.  
-**![](https://lh5.googleusercontent.com/fneuuMEZkw7E0IyzCYm7XcwG3zr1BR-sxbYzSVrH6IbK-cn_hq2L_ofwtLPfEf8C2iW7ldClYihEbIfRKrMgfOpuqyJ8JjZ-FIwcdo5ySfUZSQYnsludeS3QzcSDMprglLN-7E_BhGs)**
 ## Differences Between Active Participant & Worker-Owner
 
 |  |Worker-Owners | Active Participant|
@@ -26,9 +29,10 @@ Transparency and access | Full acces to information including  financials and ot
 ## Becoming a Worker-Owner
 ### Initiating / nominating  
 An Active Participant can be become a Worker-Owner. In order for this to happen there need to be at least *two Worker-Owners* that agree the specific Active Participant is such an added value to our organization that they should become a Worker-Owner. The existing Worker-Owners can then nominate the Active Participant using the following process. 
-1. The Worker-Owners that vouch for the Active Participant share a message in the #Recruitment channel in which they share their proposal and motivation for nominating the Active Participant. 
-2. They then schedule a regular "Hiring meeting" and invite all Worker-Owners. 
-3. The Hiring meeting will commend as normal, the initiators share their experiences and motivations and the other attendees can ask questions.
-4. At the end of the meeting there will be a vote to decide if the Active Participant can become a Worker-Owner. 
+1. The Worker-Owners check with the Active Participant if they are interested in becoming Worker-Owner. 
+2. The Worker-Owners that vouch for the Active Participant share a message in the #Recruitment channel in which they share their proposal and motivation for nominating the Active Participant. 
+3. They then schedule a regular "Hiring meeting" and invite all Worker-Owners. 
+4. The Hiring meeting will commend as normal, the initiators share their experiences and motivations and the other attendees can ask questions.
+5. At the end of the meeting there will be a vote to decide if the Active Participant can become a Worker-Owner. 
 NB:  If the vote is negative, the Active Participant can not be nominated to become a Worker-Owner for three months. This ensures that the Active Participant has the time to improve/grow/learn, while also ensuring that there will not be weekly discussions about whether someone is suitable yet. 
 
