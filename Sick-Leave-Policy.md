@@ -3,6 +3,7 @@
 ## Details
 Find more info on how to administrate your Sick hours in this wiki: https://wiki.polis.global/en/Administration%20Guidelines
 The guidelines for how to Call in Sick you can find int his wiki: [https://wiki.polis.global//Call-in-Sick](https://wiki.polis.global//Call-in-Sick)
+Slack Thread: https://dekai.slack.com/archives/CJMBGF4QY/p1565783605007300
 
 ## The Policy 
 This policy describes how the compensation for sick-leave is organzied within Polis. 
