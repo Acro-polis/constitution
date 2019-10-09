@@ -1,7 +1,7 @@
 
 # Policy for Leaving Polis Involuntarily
 ## Details
-Link to thread in Slack:  
+Link to thread in Slack:  LINKHERE
 Link to Wiki: Leaving Polis General Wiki ([https://wiki.polis.global/leaving-the-organization/voluntarily](https://wiki.polis.global/leaving-the-organization/voluntarily))   
 
 ## The Policy
