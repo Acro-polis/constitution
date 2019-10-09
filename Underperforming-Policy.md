@@ -1,7 +1,7 @@
 # Underperforming members Policy
 ## Details 
 Link to Slack Thread:  
-Link to Wiki:  
+Link to Wiki: https://wiki.polis.global/underperforming-members-wiki 
 
 ## The Policy
 The intention of this Policy is to agree that we, if a member is underperforming, intend to focus on finding solutions and improve the member’s capabilities to perform their responsibilities in Polis. This policy provides a process that facilitates that, and enables (underperforming) members to grow and develop themselves, automatically stimulating their performance level.
