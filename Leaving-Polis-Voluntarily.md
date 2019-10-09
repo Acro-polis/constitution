@@ -1,7 +1,7 @@
 
 # Policy for leaving Polis Voluntarily
 ## Details 
-Link to the wiki: [Leaving Polis Voluntarily Wiki](https://wiki.polis.global/leaving-the-organization/voluntarily)
+Link to the wiki: [Leaving Polis Voluntarily Wiki](https://wiki.polis.global/leaving-the-organization/voluntarily)  
 Link to message in Slack: 
 ## The Policy
 This Policy defines a clear process which facilitates a smooth transition of a member into a different Polis team or exiting of Polis entirely. The intention of this process is to maintain healthy relationships between the team and the leaving member during and after the transition, and to minimize any potential disruption related to this transition to the organization, team, goals or processes. It also allows Polis to grow from the unique perspective of the leaving member.
