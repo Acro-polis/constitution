@@ -3,7 +3,7 @@
 # Holiday/Vacation Policy
 ## Details
 Vote accepted on the 22nd of August 2019. Slack thread: https://dekai.slack.com/archives/CJMBGF4QY/p1565783669008100 
-Find more info on how to administrate your vacation hours in this wiki: https://wiki.polis.global/en/Administration%20Guidelines
+Find more info on how to administrate your vacation hours in this wiki: https://wiki.polis.global/administration-guidelines
 Find more info on how to communicate your vacation: 
 
 
