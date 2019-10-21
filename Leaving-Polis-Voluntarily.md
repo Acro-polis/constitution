@@ -21,7 +21,7 @@ Any member that leaves the organization or their team will complete the followin
     
 2.  In that meeting the leaving member and their team discuss and formulate a plan to transfer information and tasks, and a Facilitator for the plan is chosen.    
 
-3.  The leaving member inform the rest of Polis via Slack using the #_general channel
+3.  The leaving member informs the rest of Polis via Slack using the #_general channel
     
 4.  The facilitating member of the team will conduct a Retrospective with the leaving member, focused on the [team and] organization.
     
