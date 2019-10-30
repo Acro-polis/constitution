@@ -50,8 +50,7 @@ _NB: The parts mentioned between parenthesis "(...)" need to be filled by the pr
 >  * What are the different options that you are presenting? (Use numbers to identify them so that people can cast their vote accordingly)
 
 
-3. **The proposer must remind the members who didn’t cast their vote two days before the deadline. By mentioning them in the thread of the 
-proposal by using the @name function of Slack**  
+3. **The proposer must remind the members who didn’t cast their vote two days before the deadline. We suggest two ways to remind other members: 1) use the [/reminder functionality](https://slack.com/intl/en-nl/help/articles/208423427-set-a-reminder) in slack (E.g. /remind #vote "proposal x vote deadline" at 05/30/1995 14:00) 2) mentioning members in the thread of the proposal by using the @name function of Slack**  
 The intention for this reminder is twofold:  
     * To motivate the people who haven’t interacted with the proposal yet to cast their vote. 
     Do this in an inviting manner by asking them if they need anything to help them come to a vote.  
