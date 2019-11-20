@@ -17,7 +17,7 @@ Any member that leaves the organization or their team will complete the followin
 
 1.  The leaving member informs their team about their intended departure and schedule a meeting with the team    
     
-2.  In that meeting the leaving member and their team discuss and formulate a plan to transfer information, tasks and how the rest of the information is informed of this. In the same meeting a Facilitator for the plan is chosen.  
+2.  In that meeting the leaving member and their team discuss and formulate a plan to transfer information, tasks and how the rest of the team is informed of this. In the same meeting a Facilitator for the plan is chosen.  
 
 3.  According to the plan formulated at step 2: The rest of Polis is informed via Slack using the #_general channel
     
