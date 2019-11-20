@@ -22,32 +22,7 @@ Members should follow these steps:
 entire organization.
    * Use the team channel for proposals for a specific team.  
 
-2. Use the following template for sharing the proposal in Slack.   
-_NB: The parts mentioned between parenthesis "(...)" need to be filled by the proposer._  
-    
-> `:mushroom: *PROPOSAL + (ADD TITLE OF PROPOSAL)*`  
-@Channel: Please find the details of the proposal here:  
-  (INSERT GITHUBLINK TO PROPOSAL/PULLREQUEST/COMMIT)  
-  (INSERT ANSWER TO RELEVANT QUESTIONS)  
- >   
- > `:thumbsup:` = I agree with the proposal as it is  
-  `:thumbsdown:` = I don't agree with the proposal  
-  `:palms_up_together:` = I like to add something to the proposal   
-  `:One:`, `:two:`, `:three:` = I choose for option number 1/2/3   
-  `:wave:` = I'm happy for the group to decide  
-  `:building_construction:` = I have a different proposal to solve the same problem  
-  `:no_entry_sign:` = I want to block this proposal because I think it would harm our organization. (This is a Veto)  
-  
-  > Use this list of questions to answer those that are relevant for the proposal:  
->  * What are you proposing?
->  * Why do you personally want to see this proposal accepted?
->  * What risks and benefits do you anticipate? 
->  * Who is affected by this proposal?
->  * What are the costs of the proposal?
->  * What are the alternatives? Invite the other members to answer this as well
->  * What is the deadline for responding to the proposal? (e.g. one week) 
->  * What kind of voting is required to accept the proposal? 
->  * What are the different options that you are presenting? (Use numbers to identify them so that people can cast their vote accordingly)
+2. Use the template in this [Wiki](https://wiki.polis.global/proposals-voting/proposal-sharing) for sharing the proposal in Slack.   
 
 
 3. **The proposer must remind the members who didn’t cast their vote two days before the deadline. By mentioning them in the thread of the 
@@ -68,39 +43,35 @@ In the voting phase, two methods are available: interact with the proposal by us
    * Make suggestions to add to the proposal
    * Ask clarifying questions in an open and neutral manner, which will benefit everyone else in Polis. 
    The intention of asking clarifying questions should be to understand the original proposal better. 
-* Use emoticons to cast a vote, as shown in the table below. However, please feel reassured that this big table 
-becomes quite easy to use after a few tries. Add these emoticons by using the “adding a reaction” function of Slack.
+* Use emoticons to cast a vote, as shown in the table below. However, please feel reassured that this big table becomes quite easy to use after a few tries. Add these emoticons by using the “adding a reaction” function of Slack. You can find a table containing all the emoticons we use in this [Voting using Emoticons Wiki](https://wiki.polis.global/proposals-voting/voting-using-emoticons) 
 
-| Code in Slack     | Emoticon           | Description  |
-| ------------- |:-------------:| -----:|
-| `:ThumbsUp:`     | :thumbsup: | A vote for the proposal as it is proposed. |
-| `:ThumbsDown:`     | :thumbsdown:      | A vote against the proposal as it is. A practice that is **constructive** is to voice your needs/reasoning. Use the Thread to answer the following question: What is the reason for your vote? What do you need to approve of the proposal? These questions can also be asked by the member creating the proposal.|
-| `:One:`, `:two:`, `:three:`, etc | :one:, :two:, :three:, etc.      | If there are several **numbered options** to vote upon within the proposal, cast your vote for that particular option.|
-| `:wave:`    | :wave:      | Abstain from voting; You’re happy to let the group decide without you.|
-| `:palms_up_together:`| :raised_hands:     |  Use this to **add something** to the proposal, or **voice a concern**. Use the emoticon and describe your concern in the thread:  For example: *I agree with the proposal as it is and I think it’s important that we start doing this. However, I do worry that if a critical piece of the proposal gets neglected it could have a negative outcome on our team. Therefore I would like to add that we schedule an evaluation halfway, so that we make sure we don’t forget that critical piece.* |
-| `:building_construction:`  | 🏗️      |   Use this if you do not agree with the original proposal and you have a **counter-proposal**. Describe this counter-proposal in the comments using the regular methods of proposing. |
-| `:no_entry_sign:`| :no_entry_sign: |  Blocking a proposal is the same as casting a **veto**. Blocks aren’t something to be taken lightly. Blocks should only be used when the blocker thinks there is a significant risk for the organization.When you want to block a proposal, the following principles apply: *Place the good of the whole organization before your individual preferences & Articulate the motivation for your block in the thread of the original proposal.* |
+### Accepting an Asynchronous proposal 
+The following rules apply for a vote to be accepted
+1. At least 66% of those eligible to state a position have to do so to before the deadline of the proposal to move forward. 
+2. If the 66% threshold has been reached, and there are members that did not state a position after receiving a reminder, those members will automatically be seen as if they are "abstaining" from voting. By doing so the rest of the organization can keep moving forward. 
+3. A proposal will be approved if 66% of those stating a position, have voted in favour of the proposal, and nobody has blocked the proposal. 
+
+**Note:** If a member forgets to vote on a proposal, which they would normally block or vote against, they are empowered and strongly encouraged to propose an alternative or improved version of the policy, even if this is after the original proposal has been accepted. This way the wisdom of the minority can still be added to the policy so that everyone can benefit from that. 
 
 ### Voting on a synchronous proposal  
 Now that the proposal is being put to a vote in a synchronous manner, the following method can be used: 
 1. The original proposal is presented by the proposer.
 2. All members listen and get the chance to ask clarifying questions. When there are no more questions, the proposal is summarized and a vote is initiated. 
-3. All the members can cast their vote by hand gestures:  
-
-| Hand Gesture        | Meaning           |
-| ------------- |:-------------:|
-| Thumbs up     | Approve the proposal as is |
-| Thumbs down      | Vote against the proposal      | 
-| Make a bowl of your hand | Propose to add something to the original proposal    |
-| Hold your hand flat and horizontal      | Abstain from voting      |
-| Make a fist     | I have a counter proposal       |
-| Make a cross with your hands    | **Block** the proposal.       |
+3. All the members can cast their vote by using hand gestures (See [Wiki](https://wiki.polis.global/proposals-voting/voting-using-emoticons))
 
 4. When members want to add things to the proposal, they now get the chance to share it. The facilitator of the meeting sees to it that everybody gets their chance to share. 
 5. The creator of the original proposal can decide if they would like to add the thing that was offered by one of the other members. 
    * When they accept -> This new proposal is immediately put to a vote again. 
    * If they do not accept the addition -> Then the original proposal + addition becomes a counter-proposal. There will be a new round 
    of voting between the two options. 
+
+## Accepting a Synchronous proposal 
+The following rules apply for a vote to be accepted
+1. At least 66% of those eligible to vote, have to present at the moment of the vote. 
+2. A proposal will be approved if 66% of those stating a position, have voted in favour of the proposal, and nobody has blocked the proposal. 
+
+**Note:** If a member forgets to vote on a proposal, which they would normally block or vote against, they are empowered and strongly encouraged to propose an alternative or improved version of the policy, even if this is after the original proposal has been accepted. This way the wisdom of the minority can still be added to the policy so that everyone can benefit from that. 
+
 
 
 ## Completing a proposal process/adopting a proposal 
@@ -117,5 +88,4 @@ thread of the proposal. This message should contain:
 ### Synchronously adopting a proposal 
 Once everybody has cast their vote, the facilitator will summarize the decision that has been made and the follow-up actions 
 that will be taken. Both of these will be added to the notes of the meeting. 
-
 
