@@ -37,23 +37,23 @@ The intention for this reminder is twofold:
 When creating and sharing a proposal synchronously, the proposer should provide answers to any of the relevant questions as listed in the template earlier. 
 
 ## Voting on a proposal 
-### Voting on a asynchronous proposal   
+### Voting on a Asynchronous proposal   
 In the voting phase, two methods are available: interact with the proposal by using Slack’s thread function or by voting with emoticons. 
 * You can use the thread function to:  
    * Make suggestions to add to the proposal
    * Ask clarifying questions in an open and neutral manner, which will benefit everyone else in Polis. 
    The intention of asking clarifying questions should be to understand the original proposal better. 
-* Use emoticons to cast a vote, as shown in the table below. However, please feel reassured that this big table becomes quite easy to use after a few tries. Add these emoticons by using the “adding a reaction” function of Slack. You can find a table containing all the emoticons we use in this [Voting using Emoticons Wiki](https://wiki.polis.global/proposals-voting/voting-using-emoticons) 
+* Use emoticons to cast a vote, as shown in the wiki. However, please feel reassured that this big table becomes quite easy to use after a few tries. Add these emoticons by using the “adding a reaction” function of Slack. You can find a table containing all the emoticons we use in this [Voting using Emoticons Wiki](https://wiki.polis.global/proposals-voting/voting-using-emoticons) 
 
-### Accepting an Asynchronous proposal 
+### Accepting a Asynchronous proposal 
 The following rules apply for a vote to be accepted
-1. At least 66% of those eligible to state a position have to do so to before the deadline of the proposal to move forward. 
-2. If the 66% threshold has been reached, and there are members that did not state a position after receiving a reminder, those members will automatically be seen as if they are "abstaining" from voting. By doing so the rest of the organization can keep moving forward. 
-3. A proposal will be approved if 66% of those stating a position, have voted in favour of the proposal, and nobody has blocked the proposal. 
+1. At least 70% of those eligible to state a position have to do so to before the deadline of the proposal to move forward. 
+2. If the 70% threshold has been reached, and there are members that did not state a position after receiving a reminder, those members will automatically be seen as if they are "abstaining" from voting. By doing so the rest of the organization can keep moving forward. 
+3. A proposal will be approved if 70% of those stating a position, have voted in favour of the proposal, and nobody blocked the proposal. 
 
 **Note:** If a member forgets to vote on a proposal, which they would normally block or vote against, they are empowered and strongly encouraged to propose an alternative or improved version of the policy, even if this is after the original proposal has been accepted. This way the wisdom of the minority can still be added to the policy so that everyone can benefit from that. 
 
-### Voting on a synchronous proposal  
+### Voting on a Synchronous proposal  
 Now that the proposal is being put to a vote in a synchronous manner, the following method can be used: 
 1. The original proposal is presented by the proposer.
 2. All members listen and get the chance to ask clarifying questions. When there are no more questions, the proposal is summarized and a vote is initiated. 
@@ -65,10 +65,10 @@ Now that the proposal is being put to a vote in a synchronous manner, the follow
    * If they do not accept the addition -> Then the original proposal + addition becomes a counter-proposal. There will be a new round 
    of voting between the two options. 
 
-## Accepting a Synchronous proposal 
+### Accepting a Synchronous proposal 
 The following rules apply for a vote to be accepted
-1. At least 66% of those eligible to vote, have to present at the moment of the vote. 
-2. A proposal will be approved if 66% of those stating a position, have voted in favour of the proposal, and nobody has blocked the proposal. 
+1. At least 70% of those eligible to vote, have to present at the moment of the vote. 
+2. A proposal will be approved if 70% of those stating a position, have voted in favour of the proposal, and nobody blocked the proposal. 
 
 **Note:** If a member forgets to vote on a proposal, which they would normally block or vote against, they are empowered and strongly encouraged to propose an alternative or improved version of the policy, even if this is after the original proposal has been accepted. This way the wisdom of the minority can still be added to the policy so that everyone can benefit from that. 
 
