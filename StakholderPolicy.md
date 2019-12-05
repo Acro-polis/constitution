@@ -48,7 +48,7 @@ The Worker-Owners have voting rights on democratic decisions that pertain to the
 
 ## Links to related Wiki & Policies
 
-In this wiki you can find [the differences between Contributors, Aspiring Worker-Owners & Worker Owners](https://docs.google.com/document/d/1ZbilYPpxq8hbxgIM_y-aiCcLgZtwDxZtuxl5VdkcZHo/edit#heading=h.6lgizvwgdnf) are listed per topic.  
+In this wiki you can find [the differences between Contributors, Aspiring Worker-Owners & Worker Owners](https://wiki.polis.global/stakeholders/differences-between-worker-owners-contributors) are listed per topic.  
   
 
 Policy for [Becoming a worker Owner](https://docs.google.com/document/d/1NchI__E1EEtaefBR8I9nhXT33JNLLIdzkbELGXAhm9E/edit)
