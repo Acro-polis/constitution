@@ -1,6 +1,6 @@
 # Underperforming members Policy
 ## Details 
-Link to Slack Thread:  
+Link to Slack Thread: https://dekai.slack.com/archives/CJMBGF4QY/p1572345580042300  
 Link to Wiki: https://wiki.polis.global/underperforming-members-wiki 
 
 ## The Policy
