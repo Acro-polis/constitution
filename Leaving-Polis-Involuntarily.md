@@ -3,7 +3,7 @@
 
 ## Details
 
-Link to thread in Slack: LINKHERE
+Link to thread in Slack: https://dekai.slack.com/archives/CJMBGF4QY/p1572363084046300
 
 Link to Wiki: Leaving Polis General Wiki ([https://wiki.polis.global/leaving-the-organization/voluntarily](https://wiki.polis.global/leaving-the-organization/voluntarily))
 
@@ -116,7 +116,7 @@ To create transparency and receive help when necessary, it is important to infor
   
   
 
-**What if the member does not agree? **
+**What if the member does not agree?**
 
 If the member does not agree with the opinion of the team and raising that with the team does not lead to the desired alignment, the member should discuss this with the Teamcoach.  
 . When, for whatever reason, the member does not feel comfortable sharing this with the Teamcoach, or the Teamcoach can not provide the services they require of them, the member can alternatively contact the person that is mentioned in the Anti-Harassment Policy [https://github.com/Acro-polis/constitution/blob/master/anti-harassment-Policy.md](https://github.com/Acro-polis/constitution/blob/master/anti-harassment-Policy.md) as being the Safe Listener. That “Safe Listener” can take appropriate next steps such as scheduling a group discussion with all Worker-Owners.
