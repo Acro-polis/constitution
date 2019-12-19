@@ -1,10 +1,10 @@
 
 
-## NEW POLICY: Becoming a Worker-Owner Policy
+## Becoming a Worker-Owner Policy
 
 ## Details
 
-Link to thread in Slack:
+Link to thread in Slack:https://dekai.slack.com/archives/CJMBGF4QY/p1576082627104300
 
 ## The Policy
 
@@ -12,16 +12,16 @@ This policy describes the process of how Aspiring Worker-Owners & Contributors c
 
 ### From Aspiring Worker-Owner to Worker-Owner
 
-1.  When a person was first hired to become an Aspiring Worker-Owner (AW-O), the terms of their Transition period were discussed and defined with the members of the team they joined. Once the period has been completed (or the terms have been achieved even before the end of the period), the team of the AW-O must decide if they will vouch to the rest of Polis, for the AW-O to become a Worker-Owner.  
+1.  When a person was first hired to become an Aspiring Worker-Owner (Aspiree), the terms of their Transition period were discussed and defined with the members of the team they joined. Once the period has been completed (or the terms have been achieved even before the end of the period), the team of the Aspiree must decide if they will vouch to the rest of Polis, for the Aspiree to become a Worker-Owner.  
     At least 81% of the team’s Worker-Owners have to vouch for the Aspiring Worker-Owner. As always within Polis, the minority will have a chance to share their opinion and thereby add insights to the group decision-making-process that otherwise would be lost.  
 
 The vote can have three different outcomes:
     
-	1.  Negative, the team does not vouch for the AW-O and does not want to continue the relationship with the AW-O . In practice this situation should be avoided, by having problems addressed as soon as they arise, and therefore before the end of the Transition Period.
+	1.  Negative, the team does not vouch for the Aspiree and does not want to continue the relationship with the Aspiree . In practice this situation should be avoided, by having problems addressed as soon as they arise, and therefore before the end of the Transition Period.
     
-	2.  Negative, the teams does not vouch for the AW-O, but they will provide feedback to the AW-O and create a plan for the AW-O to manifest the needed improvements during a second Transition Period (which may be a different length of time than was the first).
+	2.  Negative, the teams does not vouch for the Aspiree, but they will provide feedback to the Aspiree and create a plan for the Aspiree to manifest the needed improvements during a second Transition Period (which may be a different length of time than was the first).
     
-	3.  Positive, the team vouches for the AW-O and this will start the process for becoming a Worker-Owner. See step 2.  
+	3.  Positive, the team vouches for the Aspiree and this will start the process for becoming a Worker-Owner. See step 2.  
       
       
     
@@ -41,17 +41,17 @@ The vote can have three different outcomes:
 
   
 
-3.  The ‘Hiring a Worker-Owner Meeting’ can only be valid when at least 6 Worker-Owners are present, and at least 2 to 3 members of the Work-team that is vouching for the AW-O are present. [We are aware and will happily revise this policy when any current team with a specific product mission (Nangu/Memri) becomes an entity.] 
+3.  The ‘Hiring a Worker-Owner Meeting’ can only be valid when at least 6 Worker-Owners are present, and at least 2 to 3 members of the Work-team that is vouching for the Aspiree are present. [We are aware and will happily revise this policy when any current team with a specific product mission (Nangu/Memri) becomes an entity.] 
 During the ‘Hiring a Worker-Owner Meeting’ the initiators share their experiences and motivations, and the other attendees can ask questions. This meeting will be recorded, and shared in the specific #_recruitment channel.   
       
     
-4.  After the ‘Hiring a Worker-Owner Meeting’, the recruiting team will share a proposal in the #_recruitment (!) channel in which they ask all Worker-Owners to cast a vote about the AW-O becoming a Worker-Owner. The regular [Proposals and Voting Policy](https://github.com/Acro-polis/constitution/blob/master/Proposals-and-Voting-Policy.md) applies to this.  
+4.  After the ‘Hiring a Worker-Owner Meeting’, the recruiting team will share a proposal in the #_recruitment (!) channel in which they ask all Worker-Owners to cast a vote about the Aspiree becoming a Worker-Owner. The regular [Proposals and Voting Policy](https://github.com/Acro-polis/constitution/blob/master/Proposals-and-Voting-Policy.md) applies to this.  
       
     
 
 **NB**: If the outcome of the organizational vote is *negative*, the Hiring team is responsible for:
 
--   Collecting the negative voters’ *reasons* for rejecting the AW-O’s immediate movement into permanent membership.
+-   Collecting the negative voters’ *reasons* for rejecting the Aspiree’s immediate movement into permanent membership.
     
 -   Informing the Aspiring Worker-Owner of the outcome of the vote.
     
