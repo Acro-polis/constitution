@@ -3,7 +3,7 @@
 
 ## Details
 
-Link to thread in Slack:
+Link to thread in Slack: https://dekai.slack.com/archives/CJMBGF4QY/p1576082199098500
 
 ## The Policy
 
@@ -32,9 +32,9 @@ The Contributor can be anyone who is working with Polis as a consultant or does 
 Contributors can have voting rights for a small subset of issues related to their task/roles, and can’t vote on our Constitutional Policies. On the other hand, their advice on all issues is invited, & valued.  
   
 
-### Aspiring Worker-Owner (A-WO)
+### Aspiring Worker-Owner (Aspiree)
 
-An Aspiring Worker-Owner has the intention to become a permanent Worker-Owner in the near future. To become a Worker-Owner, the A-WO needs to complete a transition period, which allows each of the Polis Worker-Owners to find out if the aspiring member has the essential technical, social and democratic-governance skills to become a valuable participant to our organization on a long-term basis.  
+An Aspiring Worker-Owner has the intention to become a permanent Worker-Owner in the near future. To become a Worker-Owner, the Aspiree needs to complete a transition period, which allows each of the Polis Worker-Owners to find out if the aspiring member has the essential technical, social and democratic-governance skills to become a valuable participant to our organization on a long-term basis.  
 Aspiring Worker-Owners can have voting rights for a subset of issues that significantly affect their task/roles, but can’t vote on constitutional policies. On the other hand, their advice on all issues is invited, & valued.
 
   
@@ -48,7 +48,7 @@ The Worker-Owners have voting rights on democratic decisions that pertain to the
 
 ## Links to related Wiki & Policies
 
-In this wiki you can find [the differences between Contributors, Aspiring Worker-Owners & Worker Owners](https://docs.google.com/document/d/1ZbilYPpxq8hbxgIM_y-aiCcLgZtwDxZtuxl5VdkcZHo/edit#heading=h.6lgizvwgdnf) are listed per topic.  
+In this wiki you can find [the differences between Contributors, Aspiring Worker-Owners & Worker Owners](https://wiki.polis.global/stakeholders/differences-between-worker-owners-contributors) are listed per topic.  
   
 
 Policy for [Becoming a worker Owner](https://docs.google.com/document/d/1NchI__E1EEtaefBR8I9nhXT33JNLLIdzkbELGXAhm9E/edit)
