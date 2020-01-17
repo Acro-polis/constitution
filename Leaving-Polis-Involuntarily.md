@@ -33,29 +33,29 @@ Some examples of these cases that could lead to involuntarily departing of a Pol
 
 ## Process for involuntarily leaving Polis
 
-We differentiate in process between the Active Participant and Worker-Owner role. Each case will differ, and therefore it is important to make sure the solutions and processes are customized to fit the needs of the team and the departing member. To emphasize that there are several steps that are marked as optional. Teams are encouraged to decide for themselves if that step is appropriate for the specific situation.
+We differentiate in process between the Contributor and Worker-Owner role. Each case will differ, and therefore it is important to make sure the solutions and processes are customized to fit the needs of the team and the departing member. To emphasize that there are several steps that are marked as optional. Teams are encouraged to decide for themselves if that step is appropriate for the specific situation.
 
   
   
   
 
-**Active Participant**
+**Contributor**
 
   
 
-The team or person responsible for hiring the Active Participant can decide to terminate their contract when performance or the work relationship isn’t at the level that is required to complete the project successfully and the efforts to improve aren’t successful. The team or person responsible for hiring the Active Participant, will do the following things;
+The team or person responsible for hiring the Contributor can decide to terminate their contract when performance or the work relationship isn’t at the level that is required to complete the project successfully and the efforts to improve aren’t successful. The team or person responsible for hiring the Contributor, will do the following things;
 
   
 
-1. Confront the Active Participant and share the reasons for ending the relationship prematurely.
+1. Confront the Contributor and share the reasons for ending the relationship prematurely.
 
   
 
-2. Create a plan to transfer any relevant information and tasks from Active Participant to the team.
+2. Create a plan to transfer any relevant information and tasks from Contributor to the team.
 
   
 
-3. Optional: Conduct a Retrospective with departing Active Participant, focused on the [team and] organization.
+3. Optional: Conduct a Retrospective with departing Contributor, focused on the [team and] organization.
 
   
 
@@ -81,7 +81,7 @@ The **team** of the Worker-Owner that is underperforming, showing unacceptable b
 > > 2. Team meets with the rest Worker-Owners and evaluate the outcome of the improvement period.
 > > 3. Vote is held by all Worker-Owners to decide upon the future of the relationship with the underperforming Worker-Owner.
 > > 4. Once the recommendation by the Worker-Owners is negative, the team informs the underperforming Worker-Owner.
-> > 5. Optional: Conduct a Retrospective with departing Active Participant, focused on the [team and] organization.
+> > 5. Optional: Conduct a Retrospective with departing Contributor, focused on the [team and] organization.
 > > 6. Optional: group appreciation session
 
   
@@ -107,7 +107,7 @@ To create transparency and receive help when necessary, it is important to infor
 
   
 
-1. If it regards an Active Participant, the #Worker-Owner channel should be used. Active Participants do not have access to that channel, so that an open discussion about the plans can be held.
+1. If it regards an Contributor, the #Worker-Owner channel should be used. Contributors do not have access to that channel, so that an open discussion about the plans can be held.
 
   
 

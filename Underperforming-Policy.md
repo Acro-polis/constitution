@@ -29,7 +29,7 @@ When a Worker-Owner is underperforming the following steps should be taken.
 2. The improvement plan should be shared in the public Team-channel on Slack, so that other Worker-Owners can see if the agreements that were made are fair. 
 
 
-3.  If in the period after that it becomes clear that there is no significant improvement, either because the underperforming member is not willing or able to improve, the team can initiate a meeting with the rest of Polis’ Worker-Owners in which the team explains what they did and makes a proposal for the future of the relationship with that specific Worker-Owner. (E.g. end the relationship/continue as active-participant/ or other suggestions.)  
+3.  If in the period after that it becomes clear that there is no significant improvement, either because the underperforming member is not willing or able to improve, the team can initiate a meeting with the rest of Polis’ Worker-Owners in which the team explains what they did and makes a proposal for the future of the relationship with that specific Worker-Owner. (E.g. end the relationship/continue as Contributor/ or other suggestions.)  
 
 
 4.  The other Worker-Owners will during that meeting ask questions about the proposal, can make suggestions to improve it, and then all present will cast their vote.
@@ -40,14 +40,14 @@ For more information and guidelines see the Wiki “Underperforming Worker-Owner
 
 
 
-**Active Participant that is underperforming**
+**Contributor that is underperforming**
 
 
 
-The team or person responsible for hiring the Active Participant can decide to terminate the contract when performance or the working relationship isn’t at the level that is required to complete the project successfully. However, it is encouraged to use the same process as is set forth above for an underperforming Worker-Owner to create an “Improvement plan” to  enable the Active Participant to improve. Again, the following things are important to keep in mind:  
+The team or person responsible for hiring the Contributor can decide to terminate the contract when performance or the working relationship isn’t at the level that is required to complete the project successfully. However, it is encouraged to use the same process as is set forth above for an underperforming Worker-Owner to create an “Improvement plan” to  enable the Contributor to improve. Again, the following things are important to keep in mind:  
 
 
--   The team or member who assigned the task, is responsible for concluding that the Active Participant’s performance isn’t at the required level, and sharing that observation with the Participant that is underperforming.
+-   The team or member who assigned the task, is responsible for concluding that the Contributor’s performance isn’t at the required level, and sharing that observation with the Participant that is underperforming.
 
 -   The team is responsible for making sure an ‘Improvement plan” is created so that the Participant’s abilities to perform can be increased. The plan can be focussed on  technical, communicative or other skills, and preferably is created by the Underperforming Member, if they do not take initiative in creating the plan the team is responsible for helping them create the improvement plan. 
 

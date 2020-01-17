@@ -8,8 +8,8 @@ This Policy defines a clear process which facilitates a smooth transition of a m
 
 ## Voluntarily leaving Polis
 
-**Worker-Owner & Active Participants**  
-Any Worker-Owner or Active Participant can decide to leave the organization. They do have to abide by any contractual agreements that have been made regarding prematurely cancelling their contract.
+**Worker-Owner & Contributors**  
+Any Worker-Owner or Contributor can decide to leave the organization. They do have to abide by any contractual agreements that have been made regarding prematurely cancelling their contract.
 
 ## Process of leaving Polis voluntarily
 

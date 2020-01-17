@@ -15,7 +15,7 @@ This Policy describes how vacation hours are being compensated and how one shoul
 
 At this moment in our organization we do not have the resources to do the research and acquire the knowledge that is needed for a compensation system that will be more inclusive and will take account laws in specific countries. Therefore we have created this temporary Policy so that we can at least bridge that period and provide some clarity already. For now we know that; 
 1. Dutch law requires us to give our employees an x amount of vacation hours. 
-2. Active participants do not receive compensation for their vacation hours. 
+2. Contributors do not receive compensation for their vacation hours. 
 
 
 ### Employed worker owners - fulltime
@@ -28,11 +28,11 @@ For the *employed* part time worker owners we are obliged to follow Dutch law. T
 
 For the part time *contracted* worker owners there is no compensation at this moment but our goal is to realize this in the coming  12 months. This is because it requires time We need to find out the legal possibilities in each country for this.
 
-### Active participants
-There is no compensation for vacation for the active participants. The active participants get paid for the hours they work on a Project.
+### Contributors
+There is no compensation for vacation for the Contributors. The Contributors get paid for the hours they work on a Project.
 
 ## Process
-Every member of Polis, either Active participant or Worker-owner should communicate their absence due to vacation in the following manner, so that everyone can enjoy their holiday without being disturbed. 
+Every member of Polis, either Contributor or Worker-owner should communicate their absence due to vacation in the following manner, so that everyone can enjoy their holiday without being disturbed. 
 1. Mention your holiday in the shared Polis Holiday agenda. 
 2. Share your holiday with your team or others affected by your absence in a timely manner so that you can transfer work that needs to be continued during your absence to your team members. 
 3. Use the wiki [https://wiki.polis.global/en/Administration Guidelines](https://wiki.polis.global/en/Administration%20Guidelines) to administrate your vacation hours in the right way to receive compensation. 

@@ -41,14 +41,14 @@ Aspiring Worker-Owners can have voting rights for a subset of issues that signif
 
 ### Worker-Owner (WO)
 
-The Worker-Owners are the driving force that combines the value of all contributors towards the noble cause of the organization. They intend to have long-term engagement, and are committed to the long-term success of the organization, they actively participate in the democratic processes and take initiative to improve our procedures & organizational culture.  
+The Worker-Owners are the driving force that combines the value of all Contributors towards the noble cause of the organization. They intend to have long-term engagement, and are committed to the long-term success of the organization, they actively participate in the democratic processes and take initiative to improve our procedures & organizational culture.  
 The Worker-Owners have voting rights on democratic decisions that pertain to their team and to the larger work environment of the organization; e.g. hiring new Worker-Owners, adopting company policies, and other community wide issues that are not the domain of other stakeholder groups.
 
   
 
 ## Links to related Wiki & Policies
 
-In this wiki you can find [the differences between Contributors, Aspiring Worker-Owners & Worker Owners](https://wiki.polis.global/stakeholders/differences-between-worker-owners-contributors) are listed per topic.  
+In this wiki you can find [the differences between Contributors, Aspiring Worker-Owners & Worker Owners](https://wiki.polis.global/stakeholders/differences-between-worker-owners-Contributors) are listed per topic.  
   
 
 Policy for [Becoming a worker Owner](https://docs.google.com/document/d/1NchI__E1EEtaefBR8I9nhXT33JNLLIdzkbELGXAhm9E/edit)
