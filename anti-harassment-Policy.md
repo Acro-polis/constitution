@@ -12,3 +12,4 @@ We also prohibit wilful discrimination based on [age, gender, experience, nation
 ## Inform Angela Wante
 Whenever you feel harassed or feel that colleagues are being harassed, however minor it might seem, we request that you contact Angela Wante. Anything you share with her will be completely confidential. Angela will advise you and when necessary will take further steps to make sure the harassment stops immediately.
 
+
