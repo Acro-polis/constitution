@@ -1,10 +1,10 @@
 
 
-## NEW POLICY: Becoming a Worker-Owner Policy
+## Becoming a Worker-Owner Policy
 
 ## Details
 
-Link to thread in Slack:
+Link to thread in Slack: https://dekai.slack.com/archives/CJMBGF4QY/p1576082627104300 
 
 ## The Policy
 
