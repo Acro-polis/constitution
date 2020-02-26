@@ -1,8 +1,7 @@
 # Changing Personal Information Policy 
 
 ## Details
-
-Link to thread in Slack:
+Link to thread in Slack: https://dekai.slack.com/archives/CJMBGF4QY/p1581509397000400
 
 ## The Policy
 
