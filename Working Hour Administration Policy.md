@@ -3,7 +3,7 @@
 
 ## Details
 
-Link to thread in Slack:
+Link to thread in Slack:https://dekai.slack.com/archives/CJMBGF4QY/p1582714903006200
 
 ## The Policy
 
