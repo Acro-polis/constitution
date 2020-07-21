@@ -10,4 +10,5 @@ Currently Polis has 8 Worker-Owners:
  - Ruben Daniels
  - Ruben Seggers
  - Stefan Vijzelaar
+ - Bijun Li 
  
