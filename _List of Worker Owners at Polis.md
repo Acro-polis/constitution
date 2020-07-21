@@ -1,6 +1,6 @@
 # List of Worker-Owners at Polis
 
-Currently Polis has 8 Worker-Owners:
+Currently Polis has 9 Worker-Owners:
 
  - Angela Wante 
  - Bram van der Lecq
